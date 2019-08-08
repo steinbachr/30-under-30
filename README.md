@@ -9,7 +9,7 @@ prettyping --nolegend google.com
 ```
 
 ## System
-### ncdu 
+### ncdu (https://formulae.brew.sh/formula/ncdu)
 A better `du`.
 ```
 ncdu --color dark -rr -x --exclude .git --exclude node_modules
