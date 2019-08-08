@@ -22,6 +22,16 @@ Allows you to pipe terminal output to a web session. Helpful for sharing command
 htop | seashells --delay 5
 ```
 
+## Commands
+### ZSH Autosuggestions (https://github.com/zsh-users/zsh-autosuggestions)
+Autocompletes commands.
+```
+echo "foobar"
+```
+
+### fzf (https://github.com/junegunn/fzf)
+Fuzzy finder for the command line.
+
 ## Aliases
 ### Kubectl Aliases (https://github.com/ahmetb/kubectl-aliases)
 Takes some getting used to, but you won't know how you survived without them after you do.
